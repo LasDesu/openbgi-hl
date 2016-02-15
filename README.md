@@ -6,4 +6,4 @@ Or at least I think so.
 
 Project is pretty much abandoned, just don't want it to be completely lost.
 
-Needs bode::blocks, SDL 1.2 and SDL_ttf to compile and KiraKira resource files to run.
+Needs Code::Blocks, SDL 1.2 and SDL_ttf to compile and KiraKira resource files to run.
